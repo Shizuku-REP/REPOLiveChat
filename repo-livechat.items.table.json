@@ -1,0 +1,485 @@
+[
+  {
+    "No": 1,
+    "id": "item-cart-cannon",
+    "prefab": "Item Cart Cannon",
+    "日本語名": "カートキャノン",
+    "有効": true
+  },
+  {
+    "No": 2,
+    "id": "item-cart-laser",
+    "prefab": "Item Cart Laser",
+    "日本語名": "カートレーザー",
+    "有効": true
+  },
+  {
+    "No": 3,
+    "id": "item-cart-medium",
+    "prefab": "Item Cart Medium",
+    "日本語名": "中カート",
+    "有効": true
+  },
+  {
+    "No": 4,
+    "id": "item-cart-small",
+    "prefab": "Item Cart Small",
+    "日本語名": "小カート",
+    "有効": true
+  },
+  {
+    "No": 5,
+    "id": "item-drone-battery",
+    "prefab": "Item Drone Battery",
+    "日本語名": "リチャージドローン",
+    "有効": true
+  },
+  {
+    "No": 6,
+    "id": "item-drone-feather",
+    "prefab": "Item Drone Feather",
+    "日本語名": "フェザードローン",
+    "有効": true
+  },
+  {
+    "No": 7,
+    "id": "item-drone-indestructible",
+    "prefab": "Item Drone Indestructible",
+    "日本語名": "不滅ドローン",
+    "有効": true
+  },
+  {
+    "No": 8,
+    "id": "item-drone-torque",
+    "prefab": "Item Drone Torque",
+    "日本語名": "不明",
+    "有効": false
+  },
+  {
+    "No": 9,
+    "id": "item-drone-zero-gravity",
+    "prefab": "Item Drone Zero Gravity",
+    "日本語名": "ゼログラドローン",
+    "有効": true
+  },
+  {
+    "No": 10,
+    "id": "item-duck-bucket",
+    "prefab": "Item Duck Bucket",
+    "日本語名": "ダッグバケット",
+    "有効": true
+  },
+  {
+    "No": 11,
+    "id": "item-extraction-tracker",
+    "prefab": "Item Extraction Tracker",
+    "日本語名": "トラッカー(エリア)",
+    "有効": true
+  },
+  {
+    "No": 12,
+    "id": "item-grenade-duct-taped",
+    "prefab": "Item Grenade Duct Taped",
+    "日本語名": "3グレネード",
+    "有効": true
+  },
+  {
+    "No": 13,
+    "id": "item-grenade-explosive",
+    "prefab": "Item Grenade Explosive",
+    "日本語名": "不明",
+    "有効": false
+  },
+  {
+    "No": 14,
+    "id": "item-grenade-human",
+    "prefab": "Item Grenade Human",
+    "日本語名": "ヒューマングレネード",
+    "有効": false
+  },
+  {
+    "No": 15,
+    "id": "item-grenade-shockwave",
+    "prefab": "Item Grenade Shockwave",
+    "日本語名": "ショックウェーブグレネード",
+    "有効": false
+  },
+  {
+    "No": 16,
+    "id": "item-grenade-stun",
+    "prefab": "Item Grenade Stun",
+    "日本語名": "スタングレネード",
+    "有効": true
+  },
+  {
+    "No": 17,
+    "id": "item-gun-handgun",
+    "prefab": "Item Gun Handgun",
+    "日本語名": "ガン",
+    "有効": true
+  },
+  {
+    "No": 18,
+    "id": "item-gun-laser",
+    "prefab": "Item Gun Laser",
+    "日本語名": "フォトンブラスター",
+    "有効": true
+  },
+  {
+    "No": 19,
+    "id": "item-gun-shockwave",
+    "prefab": "Item Gun Shockwave",
+    "日本語名": "パルスピストル",
+    "有効": true
+  },
+  {
+    "No": 20,
+    "id": "item-gun-shotgun",
+    "prefab": "Item Gun Shotgun",
+    "日本語名": "ショットガン",
+    "有効": true
+  },
+  {
+    "No": 21,
+    "id": "item-gun-stun",
+    "prefab": "Item Gun Stun",
+    "日本語名": "ボルトザップ",
+    "有効": true
+  },
+  {
+    "No": 22,
+    "id": "item-gun-tranq",
+    "prefab": "Item Gun Tranq",
+    "日本語名": "トランクガン",
+    "有効": true
+  },
+  {
+    "No": 23,
+    "id": "item-health-pack-large",
+    "prefab": "Item Health Pack Large",
+    "日本語名": "大回復",
+    "有効": true
+  },
+  {
+    "No": 24,
+    "id": "item-health-pack-medium",
+    "prefab": "Item Health Pack Medium",
+    "日本語名": "中回復",
+    "有効": true
+  },
+  {
+    "No": 25,
+    "id": "item-health-pack-small",
+    "prefab": "Item Health Pack Small",
+    "日本語名": "小回復",
+    "有効": true
+  },
+  {
+    "No": 26,
+    "id": "item-hidey-box",
+    "prefab": "Item Hidey Box",
+    "日本語名": "不明",
+    "有効": false
+  },
+  {
+    "No": 27,
+    "id": "item-melee-baseball-bat",
+    "prefab": "Item Melee Baseball Bat",
+    "日本語名": "バット",
+    "有効": true
+  },
+  {
+    "No": 28,
+    "id": "item-melee-frying-pan",
+    "prefab": "Item Melee Frying Pan",
+    "日本語名": "フライパン",
+    "有効": true
+  },
+  {
+    "No": 29,
+    "id": "item-melee-inflatable-hammer",
+    "prefab": "Item Melee Inflatable Hammer",
+    "日本語名": "ピコピコハンマー",
+    "有効": true
+  },
+  {
+    "No": 30,
+    "id": "item-melee-sledge-hammer",
+    "prefab": "Item Melee Sledge Hammer",
+    "日本語名": "スレッジハンマー",
+    "有効": true
+  },
+  {
+    "No": 31,
+    "id": "item-melee-stun-baton",
+    "prefab": "Item Melee Stun Baton",
+    "日本語名": "プロッドザップ",
+    "有効": true
+  },
+  {
+    "No": 32,
+    "id": "item-melee-sword",
+    "prefab": "Item Melee Sword",
+    "日本語名": "剣",
+    "有効": true
+  },
+  {
+    "No": 33,
+    "id": "item-mine-explosive",
+    "prefab": "Item Mine Explosive",
+    "日本語名": "地雷",
+    "有効": true
+  },
+  {
+    "No": 34,
+    "id": "item-mine-shockwave",
+    "prefab": "Item Mine Shockwave",
+    "日本語名": "ショックウェーブ",
+    "有効": true
+  },
+  {
+    "No": 35,
+    "id": "item-mine-stun",
+    "prefab": "Item Mine Stun",
+    "日本語名": "トラップザップ",
+    "有効": true
+  },
+  {
+    "No": 36,
+    "id": "item-orb-zero-gravity",
+    "prefab": "Item Orb Zero Gravity",
+    "日本語名": "ゼログラオーブ",
+    "有効": true
+  },
+  {
+    "No": 37,
+    "id": "item-phase-bridge",
+    "prefab": "Item Phase Bridge",
+    "日本語名": "橋",
+    "有効": true
+  },
+  {
+    "No": 38,
+    "id": "item-power-crystal",
+    "prefab": "Item Power Crystal",
+    "日本語名": "クリスタル",
+    "有効": false
+  },
+  {
+    "No": 39,
+    "id": "item-rubber-duck",
+    "prefab": "Item Rubber Duck",
+    "日本語名": "ラバーダック",
+    "有効": true
+  },
+  {
+    "No": 40,
+    "id": "item-upgrade-death-head-battery",
+    "prefab": "Item Upgrade Death Head Battery",
+    "日本語名": "死亡後バッテリー アップグレード",
+    "有効": true
+  },
+  {
+    "No": 41,
+    "id": "item-upgrade-map-player-count",
+    "prefab": "Item Upgrade Map Player Count",
+    "日本語名": "プレイヤーカウント アップグレード",
+    "有効": true
+  },
+  {
+    "No": 42,
+    "id": "item-upgrade-player-crouch-rest",
+    "prefab": "Item Upgrade Player Crouch Rest",
+    "日本語名": "スニークスタミナ回復 アップグレード",
+    "有効": true
+  },
+  {
+    "No": 43,
+    "id": "item-upgrade-player-energy",
+    "prefab": "Item Upgrade Player Energy",
+    "日本語名": "スタミナ アップグレード",
+    "有効": true
+  },
+  {
+    "No": 44,
+    "id": "item-upgrade-player-extra-jump",
+    "prefab": "Item Upgrade Player Extra Jump",
+    "日本語名": "エクストラジャンプ アップグレード",
+    "有効": true
+  },
+  {
+    "No": 45,
+    "id": "item-upgrade-player-grab-range",
+    "prefab": "Item Upgrade Player Grab Range",
+    "日本語名": "レンジ アップグレード",
+    "有効": true
+  },
+  {
+    "No": 46,
+    "id":"item-upgrade-player-grab-strength",
+    "prefab": "Item Upgrade Player Grab Strength",
+    "日本語名": "ストレングス アップグレード",
+    "有効": true
+  },
+  {
+    "No": 47,
+    "id": "item-upgrade-player-grab-throw",
+    "prefab": "Item Upgrade Player Grab Throw",
+    "日本語名": "不明",
+    "有効": false
+  },
+  {
+    "No": 48,
+    "id": "item-upgrade-player-health",
+    "prefab": "Item Upgrade Player Health",
+    "日本語名": "ヘルス アップグレード",
+    "有効": true
+  },
+  {
+    "No": 49,
+    "id": "item-upgrade-player-sprint-speed",
+    "prefab": "Item Upgrade Player Sprint Speed",
+    "日本語名": "スピード アップグレード",
+    "有効": true
+  },
+  {
+    "No": 50,
+    "id": "item-upgrade-player-tumble-climb",
+    "prefab": "Item Upgrade Player Tumble Climb",
+    "日本語名": "タンブルクライム アップグレード",
+    "有効": true
+  },
+  {
+    "No": 51,
+    "id": "item-upgrade-player-tumble-launch",
+    "prefab": "Item Upgrade Player Tumble Launch",
+    "日本語名": "タンブルランチアップグレード",
+    "有効": true
+  },
+  {
+    "No": 52,
+    "id": "item-upgrade-player-tumble-wings",
+    "prefab": "Item Upgrade Player Tumble Wings",
+    "日本語名": "タンブルウィングアップグレード",
+    "有効": true
+  },
+  {
+    "No": 53,
+    "id": "item-valuable-tracker",
+    "prefab": "Item Valuable Tracker",
+    "日本語名": "貴重品トラッカー",
+    "有効": true
+  },
+  {
+    "No": 54,
+    "id": "item-drone-heal",
+    "prefab": "Item Drone Heal",
+    "日本語名": "不明",
+    "有効": false
+  },
+  {
+    "No": 55,
+    "id": "item-orb-battery",
+    "prefab": "Item Orb Battery",
+    "日本語名": "不明",
+    "有効": false
+  },
+  {
+    "No": 56,
+    "id": "item-orb-feather",
+    "prefab": "Item Orb Feather",
+    "日本語名": "不明",
+    "有効": false
+  },
+  {
+    "No": 57,
+    "id": "item-orb-heal",
+    "prefab": "Item Orb Heal",
+    "日本語名": "不明",
+    "有効": false
+  },
+  {
+    "No": 58,
+    "id": "item-orb-indestructible",
+    "prefab": "Item Orb Indestructible",
+    "日本語名": "不明",
+    "有効": false
+  },
+  {
+    "No": 59,
+    "id": "item-orb-magnet",
+    "prefab": "Item Orb Magnet",
+    "日本語名": "不明",
+    "有効": false
+  },
+  {
+    "No": 60,
+    "id": "item-orb-torque",
+    "prefab": "Item Orb Torque",
+    "日本語名": "不明",
+    "有効": false
+  },
+  {
+    "No": 61,
+    "id": "line-between-two-points",
+    "prefab": "Line Between Two Points",
+    "日本語名": "不明",
+    "有効": false
+  },
+  {
+    "No": 62,
+    "id": "item-leaf-blower",
+    "prefab": "Item Leaf blower",
+    "日本語名": "リーフブロワー",
+    "有効": false
+  },
+  {
+    "No": 63,
+    "id": "item-reviveItem",
+    "prefab": "Item ReviveItem",
+    "日本語名": "除細動器",
+    "有効": true
+  },
+  {
+    "No": 64,
+    "id": "item-staff-torque",
+    "prefab": "Item Staff Torque",
+    "日本語名": "ロールスタッフ",
+    "有効": true
+  },
+  {
+    "No": 65,
+    "id": "item-staff-void",
+    "prefab": "Item Staff Void",
+    "日本語名": "ヴォイドスタッフ",
+    "有効": true
+  },
+  {
+    "No": 66,
+    "id": "item-staff-zero-gravity",
+    "prefab": "Item Staff Zero Gravity",
+    "日本語名": "ゼログラスタッフ",
+    "有効": true
+  },
+  {
+    "No": 67,
+    "id": "item-vehicle-semiscooter",
+    "prefab": "Item Vehicle Semiscooter",
+    "日本語名": "スクーター",
+    "有効": true
+  },
+  {
+    "No": 68,
+    "id": "item-vehicle-semiscooter-small",
+    "prefab": "Item Vehicle Semiscooter Small",
+    "日本語名": "スクーター(小)",
+    "有効": false
+  },
+  {
+    "No": 69,
+    "id": "item-walkietalkiebox",
+    "prefab": "Item WalkieTalkieBox",
+    "日本語名": "通信機器",
+    "有効": true
+  }
+]

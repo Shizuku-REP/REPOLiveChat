@@ -1,0 +1,275 @@
+[
+  {
+    "No": 1,
+    "id": "enemy---animal",
+    "prefab": "Enemy - Animal",
+    "日本語名": "アニマル",
+    "有効": true
+  },
+  {
+    "No": 2,
+    "id": "enemy---bang",
+    "prefab": "Enemy - Bang",
+    "日本語名": "バンガー",
+    "有効": false
+  },
+  {
+    "No": 3,
+    "id": "enemy---bang-director",
+    "prefab": "Enemy - Bang Director",
+    "日本語名": "バンガー(集団)",
+    "有効": false
+  },
+  {
+    "No": 4,
+    "id": "enemy---beamer",
+    "prefab": "Enemy - Beamer",
+    "日本語名": "クラウン",
+    "有効": true
+  },
+  {
+    "No": 5,
+    "id": "enemy---bowtie",
+    "prefab": "Enemy - Bowtie",
+    "日本語名": "ボウタイ",
+    "有効": true
+  },
+  {
+    "No": 6,
+    "id": "enemy---ceiling-eye",
+    "prefab": "Enemy - Ceiling Eye",
+    "日本語名": "ピーパー",
+    "有効": true
+  },
+  {
+    "No": 7,
+    "id": "enemy---duck",
+    "prefab": "Enemy - Duck",
+    "日本語名": "エイペックスプレデター",
+    "有効": true
+  },
+  {
+    "No": 8,
+    "id": "enemy---floater",
+    "prefab": "Enemy - Floater",
+    "日本語名": "メンタリスト",
+    "有効": true
+  },
+  {
+    "No": 9,
+    "id": "enemy---gnome",
+    "prefab": "Enemy - Gnome",
+    "日本語名": "ノーム",
+    "有効": false
+  },
+  {
+    "No": 10,
+    "id": "enemy---gnome-director",
+    "prefab": "Enemy - Gnome Director",
+    "日本語名": "ノーム(集団)",
+    "有効": false
+  },
+  {
+    "No": 11,
+    "id": "enemy---head",
+    "prefab": "Enemy - Head",
+    "日本語名": "ヘッドマン",
+    "有効": true
+  },
+  {
+    "No": 12,
+    "id": "enemy---hidden",
+    "prefab": "Enemy - Hidden",
+    "日本語名": "ヒドゥン",
+    "有効": true
+  },
+  {
+    "No": 13,
+    "id": "enemy---hunter",
+    "prefab": "Enemy - Hunter",
+    "日本語名": "ハンツマン",
+    "有効": true
+  },
+  {
+    "No": 14,
+    "id": "enemy---robe",
+    "prefab": "Enemy - Robe",
+    "日本語名": "ローブ",
+    "有効": true
+  },
+  {
+    "No": 15,
+    "id": "enemy---runner",
+    "prefab": "Enemy - Runner",
+    "日本語名": "リーパー",
+    "有効": true
+  },
+  {
+    "No": 16,
+    "id": "enemy---slow-mouth",
+    "prefab": "Enemy - Slow Mouth",
+    "日本語名": "スピュワー",
+    "有効": true
+  },
+  {
+    "No": 17,
+    "id": "enemy---slow-walker",
+    "prefab": "Enemy - Slow Walker",
+    "日本語名": "トラッジ",
+    "有効": true
+  },
+  {
+    "No": 18,
+    "id": "enemy---thin-man",
+    "prefab": "Enemy - Thin Man",
+    "日本語名": "シャドーチャイルド",
+    "有効": true
+  },
+  {
+    "No": 19,
+    "id": "enemy---tumbler",
+    "prefab": "Enemy - Tumbler",
+    "日本語名": "シェフ",
+    "有効": true
+  },
+  {
+    "No": 20,
+    "id": "enemy---upscream",
+    "prefab": "Enemy - Upscream",
+    "日本語名": "アップスクリーム",
+    "有効": true
+  },
+  {
+    "No": 21,
+    "id": "enemy---valuable-thrower",
+    "prefab": "Enemy - Valuable Thrower",
+    "日本語名": "ラグラット",
+    "有効": true
+  },
+  {
+    "No": 22,
+    "id": "enemy-valuable-explosion",
+    "prefab": "Enemy Valuable Explosion",
+    "日本語名": "Enemy Valuable Explosion",
+    "有効": false
+  },
+  {
+    "No": 23,
+    "id": "enemy-valuable-explosion-big",
+    "prefab": "Enemy Valuable Explosion Big",
+    "日本語名": "Enemy Valuable Explosion Big",
+    "有効": false
+  },
+  {
+    "No": 24,
+    "id": "enemy-valuable-explosion-small",
+    "prefab": "Enemy Valuable Explosion Small",
+    "日本語名": "Enemy Valuable Explosion Small",
+    "有効": false
+  },
+  {
+    "No": 25,
+    "id": "enemy-birthday-boy",
+    "prefab": "Enemy - Birthday boy",
+    "日本語名": "バースデーボーイ",
+    "有効": true
+  },
+  {
+    "No": 26,
+    "id": "enemy-bomb-thrower",
+    "prefab": "Enemy - Bomb Thrower",
+    "日本語名": "クリーンアップクルー",
+    "有効": true
+  },
+  {
+    "No": 27,
+    "id": "enemy-elsa",
+    "prefab": "Enemy - Elsa",
+    "日本語名": "エルサ",
+    "有効": true
+  },
+  {
+    "No": 28,
+    "id": "enemy-head-grabber",
+    "prefab": "Enemy - Head Grabber",
+    "日本語名": "ヘッドグラブ",
+    "有効": true
+  },
+  {
+    "No": 29,
+    "id": "enemy-heart-hugger",
+    "prefab": "Enemy - Heart Hugger",
+    "日本語名": "ハートハガー",
+    "有効": true
+  },
+  {
+    "No": 30,
+    "id": "enemy-oogly",
+    "prefab": "Enemy - Oogly",
+    "日本語名": "ウーグリー",
+    "有効": true
+  },
+  {
+    "No": 31,
+    "id": "enemy-shadow",
+    "prefab": "Enemy - Shadow",
+    "日本語名": "ルーム",
+    "有効": true
+  },
+  {
+    "No": 32,
+    "id": "enemy-spinny",
+    "prefab": "Enemy - Spinny",
+    "日本語名": "ギャンビット",
+    "有効": true
+  },
+  {
+    "No": 33,
+    "id": "enemy-tick",
+    "prefab": "Enemy - Tick",
+    "日本語名": "チック",
+    "有効": true
+  },
+  {
+    "No": 34,
+    "id": "enemy-tick-heal-aura",
+    "prefab": "Enemy - Tick Heal Aura",
+    "日本語名": "Enemy - Tick Heal Aura",
+    "有効": false
+  },
+  {
+    "No": 35,
+    "id": "enemy-tricycle",
+    "prefab": "Enemy - Tricycle",
+    "日本語名": "ベラ",
+    "有効": true
+  },
+  {
+    "No": 36,
+    "id": "module-debug-monika-enemy",
+    "prefab": "Module - Debug Monika Enemy",
+    "日本語名": "Module - Debug Monika Enemy",
+    "有効": false
+  },
+  {
+    "No": 37,
+    "id": "enemy-valuable-big",
+    "prefab": "Enemy Valuable - Big",
+    "日本語名": "Enemy Valuable - Big",
+    "有効": false
+  },
+  {
+    "No": 38,
+    "id": "enemy-valuable-medium",
+    "prefab": "Enemy Valuable - Medium",
+    "日本語名": "Enemy Valuable - Medium",
+    "有効": false
+  },
+  {
+    "No": 39,
+    "id": "enemy-valuable-small",
+    "prefab": "Enemy Valuable - Small",
+    "日本語名": "Enemy Valuable - Small",
+    "有効": false
+  }
+]
